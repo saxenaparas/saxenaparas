@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **multiple web projects**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Cloud Computing & Web Dev**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
