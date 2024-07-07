@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PARAS SAXENA</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">A passionate MERN Stack Developer from India.</h3>
 
 <!--
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/saxenaparas/Gifs/main/coding.gif?token=GHSAT0AAAAAACJUPCRXZKEIMGRS6BS4E3R2ZKAA6TQ">
