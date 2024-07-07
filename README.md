@@ -3,9 +3,11 @@
 
 <!--
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/saxenaparas/Gifs/main/coding.gif?token=GHSAT0AAAAAACJUPCRXZKEIMGRS6BS4E3R2ZKAA6TQ">
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+https://github.com/saxenaparas/CODXO/blob/main/assets/gif/hero-image.gif
 -->
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/saxenaparas/CODXO/blob/main/assets/gif/hero-image.gif" />
 
 - 🔭 I’m currently working on **multiple web projects**
 
