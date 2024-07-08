@@ -23,6 +23,7 @@ https://github.com/saxenaparas/CODXO/blob/main/assets/gif/hero-image.gif
 <p align="left">
 <a href="https://linkedin.com/in/saxenaparas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saxenaparas" height="30" width="40" /></a>
 <a href="https://instagram.com/parassaxenaofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parassaxenaofficial" height="30" width="40" /></a>
+<a href="https://parassaxena.vercel.app" target="blank"><img align="center" src="https://github.com/saxenaparas/Personal-Portfolio/blob/main/assets/diamond.svg" alt="paras-portfolio" height="38" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
