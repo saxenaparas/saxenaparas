@@ -9,11 +9,11 @@ https://github.com/saxenaparas/CODXO/blob/main/assets/gif/hero-image.gif
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://github.com/saxenaparas/CODXO/blob/main/assets/gif/hero-image.gif" />
 
-- 🔭 I’m currently working on **multiple web projects**
+- 🔭 I’m currently working on **Multiple DevOps & Web Projects**
 
-- 🌱 I’m currently learning **Cloud Computing & Web Dev**
+- 🌱 I’m currently learning **DevOps & Web Dev**
 
-- 👯 I’m looking to collaborate on **Web Projects**
+- 👯 I’m looking to collaborate on **DevOps & Web Projects**
 
 - 📫 How to reach me **parassaxenaofficial@gmail.com**
 
